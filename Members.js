@@ -18,5 +18,3 @@ const members = [
         status: 'active'
     },
 ];
-
-module.exports = members;
